@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leonellcruz7
+- 👀 I’m interested in anything that relates to developing websites and applications
+- 🌱 I’m currently mastering Javascript tools and frameworks such as React and NodeJS
+- 📫 If you have any concerns, please email me at leonellcruz111513@gmail.com
